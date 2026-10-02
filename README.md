@@ -2,7 +2,7 @@
 
 A simple, frontend-only invoice generator built with React and Vite. Fill in the details, preview your invoice, and download it as a PDF. No backend, no database, no sign-up.
 
-🌐 **Live Demo:** [https://nitish-invoice-hub.netlify.app](https://nitish-invoice-hub.netlify.app/)
+🌐 **Live Demo:** [![Netlify Status](https://img.shields.io/badge/Netlify-Live-00C7B7?logo=netlify&logoColor=white)](https://nitish-invoice-hub.netlify.app/)
 
 ## ✨ Features
 
